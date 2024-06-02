@@ -1,0 +1,7 @@
+Data Analysis Workflow
+
+1. Create a database
+2. Develop SQL Queries
+3. Connect PowerBI to DB
+4. Build a Dashboard in Power BI
+5. Answer the Analysis Question
